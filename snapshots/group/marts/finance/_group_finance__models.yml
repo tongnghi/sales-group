@@ -1,0 +1,13 @@
+version: 2
+
+snapshots:
+  - name: historic_financial_statements_snapshot
+    columns:
+      - name: dbt_valid_to
+        tests:
+          - is_null
+  - name: historic_financial_profit_loss_snapshot
+    columns:
+      - name: dbt_valid_to
+        tests:
+          - is_null

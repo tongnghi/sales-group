@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: food_excel_inventory
+    database: food  
+    schema: stg_excel_inventory
+    tables:
+      - name: stock_policy
+      - name: mapping_wh

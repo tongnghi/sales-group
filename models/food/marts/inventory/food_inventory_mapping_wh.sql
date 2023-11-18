@@ -1,0 +1,1 @@
+select * from {{ ref('food_stg_excel_inventory__mapping_wh') }}

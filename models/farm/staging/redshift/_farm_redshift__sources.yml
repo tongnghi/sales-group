@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: farm_redshift__prd__dwh
+    database: prd
+    schema: dwh
+    tables:
+      - name: f_actualsales
+      - name: d_material
+      - name: d_distributionchannel
+      - name: d_salesmanager

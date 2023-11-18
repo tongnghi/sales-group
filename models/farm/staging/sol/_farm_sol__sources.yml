@@ -1,0 +1,94 @@
+version: 2
+
+sources:
+  - name: farm_sol_dnb2001app
+    database: farm
+    schema: stg_sol_dnb2001app
+    tables:
+      - name: vsdwh_salesvolumed
+      - name: xp_01610ab_accthist_erp_final
+
+  - name: farm_sol_fasiaapp
+    database: farm
+    schema: stg_sol_fasiaapp
+    tables:
+      - name: vsdwh_salesvolumed
+      - name: xp_01610ab_accthist_erp_final
+  
+  - name: farm_sol_arwhyapp
+    database: farm
+    schema: stg_sol_arwhyapp
+    tables:
+      - name: vsdwh_salesvolumed
+      - name: xp_01610ab_accthist_erp_final
+
+  - name: farm_sol_mtr2001app
+    database: farm
+    schema: stg_sol_mtr2001app
+    tables:
+      - name: vsdwh_salesvolumed
+      - name: xp_01610ab_accthist_erp_final
+
+  - name: farm_sol_mtr1001app
+    database: farm
+    schema: stg_sol_mtr1001app
+    tables:
+      - name: vsdwh_salesvolumed
+      - name: xp_01610ab_accthist_erp_final
+
+  - name: farm_sol_mtr2002app
+    database: farm
+    schema: stg_sol_mtr2002app
+    tables:
+      - name: vsdwh_salesvolumed
+      - name: xp_01610ab_accthist_erp_final
+
+  - name: farm_sol_cbd1001app
+    database: farm
+    schema: stg_sol_cbd1001app
+    tables:
+      - name: vsdwh_salesvolumed
+      - name: xp_01610ab_accthist_erp_final
+
+  - name: farm_sol_arwblapp
+    database: farm
+    schema: stg_sol_arwblapp
+    tables:
+      - name: xp_01610ab_accthist_erp_final
+
+  - name: farm_sol_bsh1001app
+    database: farm
+    schema: stg_sol_bsh1001app
+    tables:
+      - name: xp_01610ab_accthist_erp_final
+
+  - name: farm_sol_starnapp
+    database: farm
+    schema: stg_sol_starnapp
+    tables:
+      - name: xp_01610ab_accthist_erp_final
+
+  - name: farm_sol_gfcamapp1
+    database: farm
+    schema: stg_sol_gfcamapp1
+    tables:
+      - name: xp_01610ab_accthist_erp_final
+
+  - name: farm_sol_mym1001app
+    database: farm
+    schema: stg_sol_mym1001app
+    tables:
+      - name: xp_01610ab_accthist_erp_final
+      
+  - name: farm_sol_laoapp
+    database: farm
+    schema: stg_sol_laoapp
+    tables:
+      - name: xp_01610ab_accthist_erp_final
+      
+  - name: farm_sol_gfvmmapp
+    database: farm
+    schema: stg_sol_gfvmmapp
+    tables:
+      - name: xp_01610ab_accthist_erp_final
+    

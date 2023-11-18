@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: group_excel_financial_statements
+    database: group  
+    schema: stg_excel_financial_statements
+    tables:
+    - name: md_rate

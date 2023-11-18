@@ -1,0 +1,12 @@
+
+    
+    
+    truncate table "food"."nghi_dev"."food_seed_scorecard_mapping_categories";
+    -- dbt seed --
+    
+          insert into "food"."nghi_dev"."food_seed_scorecard_mapping_categories" ("cat_code", "cat_name", "ph4_code") values
+          (%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s),(%s,%s,%s)
+      
+
+;
+  

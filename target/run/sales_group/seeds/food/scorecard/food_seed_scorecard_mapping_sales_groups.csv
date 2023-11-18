@@ -1,0 +1,12 @@
+
+    
+    
+    truncate table "food"."nghi_dev"."food_seed_scorecard_mapping_sales_groups";
+    -- dbt seed --
+    
+          insert into "food"."nghi_dev"."food_seed_scorecard_mapping_sales_groups" ("sales_group_code", "sales_group_name", "channel_code", "channel_name") values
+          (%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s),(%s,%s,%s,%s)
+      
+
+;
+  

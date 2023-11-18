@@ -1,0 +1,67 @@
+STT,Region,Industry,Dept,Team,SalesCode,Staff,Title,Email,Report
+1,ALL,ALL,ALL,ALL,ALL,Do Cao Bang,HDQT,bang.dc@greenfeed.com.vn,All
+2,ALL,ALL,ALL,ALL,ALL,Nguyen Van Hien,HDQT,hien.nv@greenfeed.com.vn,All
+3,ALL,ALL,ALL,ALL,ALL,Dang Thach Quan,HDQT & Tong Giam Doc QDTEK,quan.dang@qdtek.vn,All
+4,ALL,ALL,ALL,ALL,ALL,Bui Huy Long,HDQT,long.bh@greenfeed.com.vn,All
+5,ALL,ALL,ALL,ALL,ALL,Ly Anh Duy Quang,HDQT,quang.lad@greenfeed.com.vn,All
+6,ALL,ALL,ALL,ALL,ALL,Ngo Truong Da,HDQT,da.ngo@qdtek.vn,All
+7,ALL,ALL,ALL,ALL,ALL,Mai Thi Thu Hong,BKS,hong.mtt@greenfeed.com.vn,All
+8,ALL,ALL,ALL,ALL,ALL,Ton Tich Phuong,HDQT,phuong.ton@qdtek.vn,All
+9,ALL,ALL,ALL,ALL,ALL,Lam My Linh,Pho Tong Giam Doc,linh.lam@qdtek.vn,All
+10,ALL,ALL,ALL,ALL,ALL,Cao My Hang,Giam Doc Tai Chinh Ke Toan,hang.cao@qdtek.vn,All
+11,ALL,ALL,ALL,ALL,ALL,Tran Thi Phuong Thuy,Giam Doc Van Hanh,thuy.tranphuong@qdtek.vn,All
+12,ALL,ALL,ALL,ALL,ALL,Huynh Thi Ngoc Long,Chuyen Vien Ke Toan,long.huynh@qdtek.vn,All
+13,ALL,ALL,ALL,ALL,ALL,Nguyen Tran Trung Hieu,Truong Phong Marketing va Truyen Thong,hieu.ntt@qdtek.vn,"Sales Pipeline, Customer Dashboard"
+14,ALL,ALL,ALL,ALL,ALL,Huynh Thi Giang Kieu,Tro Ly Giam Doc,kieu.htg@qdtek.vn,All
+15,ALL,CNTT,ALL,ALL,ALL,Nguyen Thi Oanh Kieu,Chuyen Vien Ho Tro Kinh Doanh,kieu.nto@qdtek.vn,All
+16,ALL,CNTT,CABLE,ALL,ALL,Dang Thai Nhu Diem,Truong Phong Kinh Doanh,diem.dang@qdtek.vn,All
+17,ALL,CNTT,EQUIPMENT,ALL,ALL,Le Thi Xuan Duyen,Truong Phong Kinh Doanh,duyen.le@qdtek.vn,All
+18,ALL,CNTT,POWER,ALL,ALL,Vu Hung Anh,Truong Phong Kinh Doanh,anh.vu@qdtek.vn,All
+19,ALL,CNTT,CABLE,ALL,ALL,Vu Hung Anh,Truong Phong Kinh Doanh,anh.vu@qdtek.vn,All
+20,ALL,CNTT,RETAIL,ALL,ALL,Tran Trong Nghia,Truong Phong Kinh Doanh,nghia.tran@qdtek.vn,All
+21,ALL,CNTT,RETAIL,ALL,ALL,Lam Phat Tai,Truong nhom,tai.lam@qdtek.vn,All
+22,ALL,TELCO,ALL,ALL,ALL,Vu Thi Thanh Thao,Truong Phong Kinh Doanh (CNTT) & Pho Giam Doc (TELCO),thao.vu@qdtek.vn,All
+23,ALL,TELCO,ALL,ALL,ALL,Tran Tho Chien Thang,Giam Doc Nganh,thang.tran@qdtek.vn,All
+24,ALL,TELCO,ALL,ALL,ALL,Nguyen Thi Tuyet Mai,Nhan Vien Ho Tro Kinh Doanh,mai.ntt@qdtek.vn,All
+25,ALL,ANGS,ALL,ALL,ALL,Tong Thi Huong Giang,Giam Doc Nganh An Ninh Giam Sat,giang.tong@qdtek.vn,All
+26,ALL,ANGS,ALL,ALL,ALL,Pham Ngoc Ha,Nhan Vien Ho Tro Kinh Doanh,ha.pn@qdtek.vn,All
+27,ALL,ALL,ALL,ALL,ALL,Dao Huu Sang,Truong nhom Ky thuat,sang.dao@qdtek.vn,"Sales Pipeline, Customer Dashboard"
+28,North,CNTT,RETAIL,RETAIL_MB,TEKN090,Nguyen Hoang Anh,Sales,anh.nguyenhoang@qdtek.vn,All
+29,North,CNTT,RETAIL,RETAIL_MB,612870,Nguyen Cong Duc,Sales,duc.nc@qdtek.vn,All
+30,North,CNTT,RETAIL,RETAIL_MB,TEKN131,Hoang Thi Tuyet,Sales,tuyet.hoang@qdtek.vn,All
+31,North,CNTT,RETAIL,RETAIL_MB,TEKN157,Nguyen Thi Le,Sales,le.nguyen@qdtek.vn,All
+32,North,CNTT,POWER,POWER_MB,TEKN068,Tran Hieu,Sales,hieu.tran@qdtek.vn,All
+33,North,CNTT,POWER,POWER_MB,TEKN143,Dang Hai Long,Sales,long.dang@qdtek.vn,All
+34,North,CNTT,EQUIPMENT,EQUIPMENT_MB,860164,Nguyen Hoang Nam,Sales,nam.nhoang@qdtek.vn,All
+35,North,CNTT,CABLE,CABLE_MB,TEKN132,Nguyen Thi Kieu Ngan,Sales,ngan.nguyen@qdtek.vn,All
+36,North,ANGS,ANGS,ANGS_MB,860163,Tran Ngoc Bich,Sales,bich.tran@qdtek.vn,All
+37,North,ANGS,ANGS,ANGS_MB,TEKN148,Dang Phuong Nam,Sales,nam.dang@qdtek.vn,All
+38,North,ANGS,ANGS,ANGS_MB,TEKN152,Bui Tuan Minh,Sales,minh.bui@qdtek.vn,All
+39,North,ANGS,ANGS,ANGS_MB,860178,Chu Van Be Be To,Sales,to.cvbb@qdtek.vn,All
+40,North,ANGS,ANGS,ANGS_MB,TEKN172,Pham Thi Ngoc Ha,Sales,ha.pn@qdtek.vn,All
+41,North,ANGS,ANGS,ANGS_MB,860180,Ngo Dang Son,Sales,son.ndang@qdtek.vn,All
+42,North,ANGS,ANGS,ANGS_MB,860176,Phan Thi Hai Yen,Sales,yen.pth@qdtek.vn,All
+43,North,ANGS,ANGS,ANGS_MB,TEKN096,Dao Bao Trung,Sales,trung.dao@qdtek.vn,All
+44,North,TELCO,KEY ACCOUNT,KEY ACCOUNT_MB,860179,Tran Anh Dung,Sales,dung.ta@qdtek.vn,All
+45,North,CNTT,CNTT,CNTT_MB,ALL,Tran Thi Thanh Hoa,Ke toan Truong,hoa.tran@qdtek.vn,All
+46,North,ANGS,ANGS,ANGS_MB,ALL,Tran Thi Thanh Hoa,Ke toan Truong,hoa.tran@qdtek.vn,All
+47,North,TELCO,TELCO,TELCO_MB,ALL,Tran Thi Thanh Hoa,Ke toan Truong,hoa.tran@qdtek.vn,All
+48,North,CNTT,RETAIL,ALL,ALL,Nguyen Hoang Anh,Truong Phong Kinh Doanh,anh.nguyenhoang@qdtek.vn,All
+49,North,CNTT,POWER,ALL,ALL,Vu Thi Thanh Thao,Truong Phong Kinh Doanh (CNTT) & Pho Giam Doc (TELCO),thao.vu@qdtek.vn,All
+50,North,CNTT,EQUIPMENT,ALL,ALL,Pham The Truong,Truong nhom,truong.pham@qdtek.vn,All
+51,North,ANGS,ANGS,ANGS_MB,ALL,Le Thang,BM & Chuyen Vien Ky Thuat,thang.le@qdtek.vn,All
+52,South,CNTT,CABLE,CABLE_MN,TEK239,Nguyen Minh Trung,Sales,trung.nguyen@qdtek.vn,All
+53,South,CNTT,POWER,POWER_MN,880357,Duong Nhat Le,Sales,le.dn@qdtek.vn,All
+54,South,CNTT,RETAIL,RETAIL_MN,TEK279,Nguyen Thi Ngoc Tuyet,Sales,tuyet.nguyen@qdtek.vn,All
+55,South,CNTT,RETAIL,RETAIL_MN,TEK349,Nguyen Ngoc Hieu,Sales,hieu.nn@qdtek.vn,All
+56,South,CNTT,RETAIL,RETAIL_MN,TEK322,Le Hong Thai,Sales,thai.le@qdtek.vn,All
+57,South,CNTT,EQUIPMENT,EQUIPMENT_MN,TEK283,Vo Kim Hung,Sales,hung.vo@qdtek.vn,All
+58,South,CNTT,EQUIPMENT,EQUIPMENT_MN,TEK319,Ngo Thanh Nhan,Sales,nhan.ngo@qdtek.vn,All
+59,South,CNTT,M&E,M&E_MN,TEK211,Nguyen Trong Nguyen,Sales,nguyen.nguyentrong@qdtek.vn,All
+60,South,CNTT,M&E,M&E_MN,TEK266,Luu Thi Kim Huong,Sales,huong.luu@qdtek.vn,All
+61,South,ANGS,ANGS,ANGS_MN,TEK261,Nguyen Tuan Dat,Sales,dat.nguyentuan@qdtek.vn,All
+62,South,ANGS,ANGS,ANGS_MN,TEK350,Tran Thi Van,Sales,van.tthi@qdtek.vn,All
+63,South,TELCO,KEY ACCOUNT,KEY ACCOUNT_MN,TEK344,Dao Thi Tra My,Sales,my.dtt@qdtek.vn,All
+64,South,CNTT,M&E,ALL,ALL,Nguyen Thanh Tan,Truong Phong Kinh Doanh,tan.nguyen@qdtek.vn,All
+65,South,ANGS,ANGS,ANGS_MN,ALL,Nguyen Viet Thanh,Pho Giam Doc Nganh ANGS,thanh.nviet@qdtek.vn,All
+66,South,ANGS,ANGS,ANGS_MN,ALL,Luong Ha My,Truong Phong Kinh Doanh,my.luong@qdtek.vn,All

@@ -1,0 +1,58 @@
+version: 2
+
+models:
+  - name: food_stg_sap_s4__fi_0fi_acdoca_10
+    tests:
+      - dbt_utils.recency:
+          alias: fi_0fi_acdoca_10__budat__has_today_data
+          datepart: day
+          field: budat::timestamp
+          interval: 1
+
+  - name: food_stg_sap_s4__mm_2lis_03_bf
+    tests:
+      - dbt_utils.recency:
+          alias: mm_2lis_03_bf__budat__has_today_data
+          datepart: day
+          field: budat::timestamp
+          interval: 1
+
+  - name: food_stg_sap_s4__mm_2lis_03_um
+    tests:
+      - dbt_utils.recency:
+          alias: mm_2lis_03_um__budat__has_weekly_data
+          datepart: day
+          field: budat::timestamp
+          interval: 8
+  
+  - name: food_stg_sap_s4__sd_2lis_13_vditm
+    tests:
+      - dbt_utils.recency:
+          alias: sd_2lis_13_vditm__fkdat__has_today_data
+          datepart: day
+          field: fkdat::timestamp
+          interval: 1
+  
+  - name: food_stg_sap_s4__sd_2lis_11_vaitm
+    tests:
+      - dbt_utils.recency:
+          alias: sd_2lis_11_vaitm__erdat__has_yesterday_data
+          datepart: day
+          field: erdat::timestamp
+          interval: 2
+
+  - name: food_stg_sap_s4__sd_2lis_12_vcitm
+    tests:
+      - dbt_utils.recency:
+          alias: sd_2lis_12_vcitm__erdat__has_yesterday_data
+          datepart: day
+          field: erdat::timestamp
+          interval: 2
+
+  - name: food_stg_sap_s4__tbl_vbpa
+    tests:
+      - dbt_utils.recency:
+          alias: tbl_vbpa__erdat__has_yesterday_data
+          datepart: day
+          field: erdat
+          interval: 2

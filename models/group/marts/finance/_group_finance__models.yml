@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: financial_statements
+    columns:
+      - name: legal
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['4002','4001','3100','3000','lbc','donavet','1000','GFDNBAPP','MYM1001APP','STARNAPP','GFCAMAPP1','MTR1001APP','1005','ntt','LOG5001APP','GFVMMAPP','LAOAPP','DNB2001APP', 'FASIAAPP', 'ARWHYAPP', 'MTR2001APP','MTR2002APP','ARWBLAPP','CBD1001APP']
+    config:
+      database: group
+      schema: marts_finance
+      alias: financial_statements
+      materialized: table
+      ra3_node: true
+  - name: financial_profit_loss
+    columns:
+      - name: legal
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['4002','4001','3100','3000','lbc','donavet','1000','GFDNBAPP','MYM1001APP','STARNAPP','GFCAMAPP1','MTR1001APP','1005','ntt','LOG5001APP','GFVMMAPP','LAOAPP','DNB2001APP', 'FASIAAPP', 'ARWHYAPP', 'MTR2001APP','MTR2002APP','ARWBLAPP','CBD1001APP']
+    config:
+      database: group
+      schema: marts_finance
+      alias: financial_profit_loss
+      materialized: table
+      ra3_node: true 
+  - name: mapping_md_p_l_account
+    config:
+      database: group
+      schema: marts_finance
+      alias: mapping_md_p_l_account
+      materialized: table
+      ra3_node: true         

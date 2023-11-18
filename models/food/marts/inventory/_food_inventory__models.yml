@@ -1,0 +1,115 @@
+version: 2
+
+models:
+  - name: food_inventory_products
+    config:
+      database: food
+      schema: marts_inventory
+      alias: inventory_products
+      materialized: table
+      ra3_node: true
+    columns:
+      - name: code
+        description: "Product code"
+        tests:
+          - unique
+          - not_null
+          
+      - name: minimum
+        description: "Minimum stock policy"
+
+      - name: maximum
+        description: "Maximum stock policy"
+
+      - name: optimal
+        description: "Optimal stock policy (calculated as (minimum + maximum) / 2)"
+  
+  - name: food_inventory_mapping_wh
+    config:
+      database: food
+      schema: marts_inventory
+      alias: mapping_wh
+      materialized: table
+      ra3_node: true
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - plant
+            - storage_location
+  
+  - name: food_inventory_batch_attributes
+    config:
+      database: food
+      schema: marts_inventory
+      alias: batch_attributes
+      materialized: table
+      ra3_node: true
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - matnr
+            - charg
+
+  - name: food_inventory_stocks
+    config:
+      database: food
+      schema: marts_inventory
+      alias: inventory_stocks
+      materialized: table
+      ra3_node: true
+  
+  - name: food_inventory_w
+    config:
+      database: food 
+      schema: marts_inventory
+      alias: inventory_w
+      materialized: table
+      ra3_node: true
+
+  - name: food_inventory_aging
+    config:
+      database: food
+      schema: marts_inventory
+      alias: inventory_aging
+      materialized: table
+      ra3_node: true
+
+  - name: food_dates
+    config:
+      database: food
+      schema: marts_inventory
+      alias: dim_dates
+      materialized: table
+      ra3_node: true
+  
+  - name: food_base_price
+    config:
+      database: food
+      schema: marts_inventory
+      alias: base_price
+      materialized: table
+      ra3_node: true
+
+  - name: food_inventory_by_status
+    config:
+      database: food
+      schema: marts_inventory
+      alias: inventory_by_status
+      materialized: table
+      ra3_node: true
+
+  - name: food_inventory_weekly
+    config:
+      database: food
+      schema: marts_inventory
+      alias: inventory_weekly
+      materialized: table
+      ra3_node: true
+
+  - name: food_inventory_reservation
+    config:
+      database: food
+      schema: marts_inventory
+      alias: reservation
+      materialized: table
+      ra3_node: true

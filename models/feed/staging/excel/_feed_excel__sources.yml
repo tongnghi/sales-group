@@ -1,0 +1,23 @@
+version: 2
+
+sources:
+  - name: feed_excel_donavet
+    database: feed  
+    schema: stg_excel_donavet
+    tables:
+    - name: tb_donavet_1100
+      columns:
+          - name: _racct
+            tests:
+              - not_null
+    - name: tb_account_mapping
+    
+  - name : feed_excel_tayninh
+    database : feed
+    schema : stg_excel_tayninh
+    tables :
+    - name : tb_tayninh_1005
+      columns:
+          - name: _racct
+            tests:
+              - not_null

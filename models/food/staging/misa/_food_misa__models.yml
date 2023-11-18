@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: food_stg_misa__lbc_generalledger
+    tests:
+      - dbt_utils.recency:
+          alias: lbc_generalledger__posteddate__has_yesterday_data
+          datepart: day
+          field: posteddate
+          interval: 2

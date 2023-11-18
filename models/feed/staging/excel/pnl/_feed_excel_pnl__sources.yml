@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: stg_excel_pnl
+    database: feed  
+    schema: stg_excel_pnl
+    tables:
+    - name: mapping_code_pnl
+    - name: mapping_sales_group
+    - name: mapping_salesgroup_pnl
+    - name: mapping_ck
+    - name: mapping_costcenter_salesgroup
+    - name: mapping_midcostcenter_salesgroup
+    - name: mapping_salesgroup_ck
+
+

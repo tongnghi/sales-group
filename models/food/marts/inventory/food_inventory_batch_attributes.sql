@@ -1,0 +1,1 @@
+select * from {{ ref('food_int_inventory__batch_produced') }}

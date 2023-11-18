@@ -1,0 +1,1 @@
+select * from {{ ref('food_stg_excel_sales__budget_of_accounting_department') }}

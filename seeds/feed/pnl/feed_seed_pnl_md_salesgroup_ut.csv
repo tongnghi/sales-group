@@ -1,0 +1,145 @@
+cost_center,sales_group,salesgroup_name,note
+"1048303889","200_TY",Lào_TTY,Lên P&L
+"1014911100","180_QD",Bán NL_Qdung,Lên P&L
+"1018300900","200",Lao_Feed,Lên P&L
+"1018300902","200",Lao_Feed,Lên P&L
+"1018301889","200",Lao_Feed,Lên P&L
+"1018301900","200",Lao_Feed,Lên P&L
+"1018302900","200",Lao_Feed,Lên P&L
+"1048300889","200",Lao_Feed,Lên P&L
+"1018100900","900",Myanmar,Lên P&L
+"1018100902","900",Myanmar,Lên P&L
+"1018101900","900",Myanmar,Lên P&L
+"1018101919","900",Myanmar,Lên P&L
+"1908005900","180_180",Trading_CBD,Lên P&L
+"1018000882","180_180",Trading_CBD,Lên P&L
+"1908000919","180_180",Trading_CBD,Lên P&L
+"1908000921","180_180",Trading_CBD,Lên P&L
+"1970200906","Oversea",Oversea,Clear =0
+"1972400906","Oversea",Oversea,Clear =0
+"9040200902","Oversea",Oversea,Clear =0
+"9042400902","Oversea",Oversea,Clear =0
+"1010200900","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900100","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900171","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900172","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900173","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900174","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900175","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900870","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900900","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900906","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900910","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900911","Funtion_Long An",Funtion_Long An,Clear =0
+"1014900918","Funtion_Long An",Funtion_Long An,Clear =0
+"1054900900","Funtion_Long An",Funtion_Long An,Clear =0
+"1910201921","FeedVN",FeedVN,Clear =0
+"1940201921","FeedVN",FeedVN,Clear =0
+"1942200921","FeedVN",FeedVN,Clear =0
+"1942200924","FeedVN",FeedVN,Clear =0
+"1942400911","FeedVN",FeedVN,Clear =0
+"1942400918","FeedVN",FeedVN,Clear =0
+"1942400919","FeedVN",FeedVN,Clear =0
+"1942400921","FeedVN",FeedVN,Clear =0
+"1980201874","FeedVN",FeedVN,Clear =0
+"1980201900","FeedVN",FeedVN,Clear =0
+"1980201902","FeedVN",FeedVN,Clear =0
+"1980201906","FeedVN",FeedVN,Clear =0
+"1980201910","FeedVN",FeedVN,Clear =0
+"1980201914","FeedVN",FeedVN,Clear =0
+"1980201921","FeedVN",FeedVN,Clear =0
+"1980201949","FeedVN",FeedVN,Clear =0
+"1980201955","FeedVN",FeedVN,Clear =0
+"1984801900","FeedVN",FeedVN,Clear =0
+"1985701900","FeedVN",FeedVN,Clear =0
+"8000200900","Feed-Farm",Feed-Farm,Clear =0
+"8000200916","Feed-Farm",Feed-Farm,Clear =0
+"1900200900","Feed",Feed,Clear =0
+"1900200906","Feed",Feed,Clear =0
+"1900200909","Feed",Feed,Clear =0
+"1900200910","Feed",Feed,Clear =0
+"1900200911","Feed",Feed,Clear =0
+"1900200913","Feed",Feed,Clear =0
+"1900200916","Feed",Feed,Clear =0
+"1900200918","Feed",Feed,Clear =0
+"1900200919","Feed",Feed,Clear =0
+"1900200924","Feed",Feed,Clear =0
+"1902400919","Feed",Feed,Clear =0
+"1902400924","Feed",Feed,Clear =0
+"1904900900","Feed",Feed,Clear =0
+"1904900911","Feed",Feed,Clear =0
+"1904900924","Feed",Feed,Clear =0
+"1980200900","Feed_VN",Feed_VN,Clear =0
+"1980200905","Feed_VN",Feed_VN,Clear =0
+"1980200906","Feed_VN",Feed_VN,Clear =0
+"1980200924","Feed_VN",Feed_VN,Clear =0
+"1982200906","Feed_VN",Feed_VN,Clear =0
+"9000200900","Group",Group,Clear =0
+"9000200901","Group",Group,Clear =0
+"9000200902","Group",Group,Clear =0
+"9000200904","Group",Group,Clear =0
+"9000200905","Group",Group,Clear =0
+"9000200906","Group",Group,Clear =0
+"9000200908","Group",Group,Clear =0
+"9000200910","Group",Group,Clear =0
+"9000200911","Group",Group,Clear =0
+"9000200913","Group",Group,Clear =0
+"9000200916","Group",Group,Clear =0
+"9000200918","Group",Group,Clear =0
+"9000200919","Group",Group,Clear =0
+"9000200925","Group",Group,Clear =0
+"9000200927","Group",Group,Clear =0
+"9000200934","Group",Group,Clear =0
+"9000200952","Group",Group,Clear =0
+"9000200954","Group",Group,Clear =0
+"9002200900","Group",Group,Clear =0
+"9002200952","Group",Group,Clear =0
+"9002400900","Group",Group,Clear =0
+"9004900900","Group",Group,Clear =0
+"9004900901","Group",Group,Clear =0
+"9004900902","Group",Group,Clear =0
+"9004900913","Group",Group,Clear =0
+"9005700900","Group",Group,Clear =0
+"1600200902","Chi hộ ET",Chi hộ ET,Dùng Reconcile
+"1800200900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1800200902","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1800200906","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1800200916","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1800200918","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1800200923","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1800205907","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1800205915","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1800205919","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1800208900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1800208915","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1810200900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1810200902","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1810208900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1810208902","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1820200900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1820200902","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1820208900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1822200900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1822400900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1822408900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1840200900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1840200902","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1850200900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1850200902","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1860200900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1863700900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1863700911","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1870200900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1872200900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1880200900","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"9000200929","Chi hộ Farm",Chi hộ Farm,Dùng Reconcile
+"1700200900","Chi hộ Food",Chi hộ Food,Dùng Reconcile
+"1700200902","Chi hộ Food",Chi hộ Food,Dùng Reconcile
+"1700200918","Chi hộ Food",Chi hộ Food,Dùng Reconcile
+"1710200900","Chi hộ Food",Chi hộ Food,Dùng Reconcile
+"1712400900","Chi hộ Food",Chi hộ Food,Dùng Reconcile
+"1720200900","Chi hộ Food",Chi hộ Food,Dùng Reconcile
+"1980202929","Aqua",Aqua,Clear =0
+"9060200902","Aqua",Aqua,Clear =0
+"9064900902","Aqua",Aqua,Clear =0
+"1900203879","TTY",TTY,Clear =0

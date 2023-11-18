@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: food_channels
+    config:
+      database: food
+      schema: marts_score_card
+      alias: channels
+      materialized: table
+      ra3_node: true
+
+  - name: food_scorecard_kpi_budget
+    config:
+      database: food
+      schema: marts_score_card
+      alias: kpi_budget
+      materialized: table
+      ra3_node: true
+
+  - name: food_scorecard
+    config:
+      database: food
+      schema: marts_score_card
+      alias: scorecard
+      materialized: table
+      ra3_node: true
+
+  - name: food_scorecard_cogs
+    config:
+      database: food
+      schema: marts_score_card
+      alias: cogs
+      materialized: table
+      ra3_node: true
+  
+  - name: food_scorecard_cogs_by_component
+    config:
+      database: food
+      schema: marts_score_card
+      alias: cogs_by_component
+      materialized: table
+      ra3_node: true

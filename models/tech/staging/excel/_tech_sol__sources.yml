@@ -1,0 +1,32 @@
+version: 2
+
+sources:
+  - name: tech_excel_qdtek
+    database: tech
+    schema: stg_excel_qdtek
+    tables:
+      - name: tb_south_north_4000
+      - name: tb_qdtek_north
+        columns:
+          - name: _racct
+            tests:
+              - not_null
+      - name: tb_qdtek_south
+        columns:
+          - name: _racct
+            tests:
+              - not_null
+
+      - name: tb_account_mapping
+      - name: tb_ntt_4300
+        columns:
+          - name: _racct
+            tests:
+              - not_null
+
+  - name: tech_excel_ntt
+    database: tech
+    schema: stg_excel_ntt
+    tables:
+      - name: tb_ntt_4300
+      

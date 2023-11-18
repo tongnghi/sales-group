@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: feed_sap_ecc
+    database: feed  
+    schema: stg_sap_ecc
+    tables:
+      - name: fi_0fi_gl_12
+      - name: ke24
+      - name: ke25
+      - name: ksb1
+      - name: mb5b
+      - name: mb51
+      - name: mm60
+      - name: zmllistn
+      - name: zppr0019
+      - name: zfip0008

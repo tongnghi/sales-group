@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: food_stg_sol__gnf1001apprepl_vsdwh_salesvolumed
+    tests:
+      - dbt_utils.recency:
+          alias: gnf1001apprepl_vsdwh_salesvolumed__invoicedate__has_yesterday_data
+          datepart: day
+          field: invoice_date
+          interval: 2

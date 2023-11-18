@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: qdt_sol_log5001app
+    database: qdt
+    schema: stg_sol_log5001app
+    tables:
+      - name: xp_01610ab_accthist_erp_final

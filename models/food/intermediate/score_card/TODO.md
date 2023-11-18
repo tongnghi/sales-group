@@ -1,0 +1,1 @@
+Extract common logic of mapping dimensions

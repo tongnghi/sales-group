@@ -1,0 +1,41 @@
+version: 2
+
+sources:
+  - name: food_sap_s4
+    database: food  
+    schema: stg_sap_s4  
+    tables:
+      - name: md_0accnt_grp_text
+      - name: md_0comp_code_attr
+      - name: md_0cust_group_text
+      - name: fi_0fi_acdoca_10
+      - name: md_0sales_grp_text
+      - name: md_0customer_text
+      - name: md_0cust_grp1_text
+      - name: md_0cust_grp2_text
+      - name: md_0distr_chan_text
+      - name: md_0material_text
+      - name: md_0sales_off_text
+      - name: md_0plant_text
+      - name: md_0sales_dist_text
+      - name: md_0matl_type_text
+      - name: md_0material_attr
+      - name: md_0prod_hier_text
+      - name: md_0comp_code_text
+      - name: md_0costelmnt_text
+      - name: sd_2lis_13_vditm
+      - name: sd_2lis_11_vaitm
+      - name: tbl_customer_sale_person
+      - name: md_0costcenter_text
+      - name: mm_2lis_03_bf
+      - name: mm_2lis_03_um
+      - name: fi_0fi_gl_12
+      - name: tbl_fcml_ccs_r_all_v
+      - name: md_0bill_type_text
+      - name: tbl_vbpa
+      - name: tbl_ztt_zsdc0016
+      - name: md_0ord_reason_text
+      - name: mm_zds_mm_batch_attr
+      - name: mm_zds_mm_current_stock
+      - name: sd_2lis_12_vcitm
+      - name: md_0stor_loc_text

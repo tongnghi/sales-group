@@ -1,0 +1,1 @@
+select * from {{ ref('feed_seed_sales_budget_2023') }}

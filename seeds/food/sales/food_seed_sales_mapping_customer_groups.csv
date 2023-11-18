@@ -1,0 +1,38 @@
+SOURCE,CODE Customer Group,Customer Group,CODE Customer Group 1,Customer Group 1,CODE Customer Group 2,Customer Group 2 
+LBC ,ZA,Gia Cong,26,Gia Cong,93,Gia Cong
+LBC ,Z7,Horeca,23,Horeca,92,Fast Food
+LBC ,Z7,Horeca,23,Horeca,53,Hotel - Restaurant
+LBC ,Z7,Horeca,23,Horeca,58,Producer/Company
+LBC ,Z7,Horeca,23,Horeca,57,Street Restaurant
+LBC ,Z7,Horeca,23,Horeca,64,Trader
+LBC ,Z3,Internal,12,Internal,12,Internal
+LBC ,Z3,Internal,29,Seasonal,60,Small Account
+LBC ,Z4,Modern Trade,16,MINI MART,28,BHX
+LBC ,Z4,Modern Trade,16,MINI MART,26,CO.OP FOOD
+LBC ,Z4,Modern Trade,16,MINI MART,32,KMART
+LBC ,Z4,Modern Trade,16,MINI MART,25,VINMART+
+LBC ,Z4,Modern Trade,18,MTI MN,41,AN NAM
+LBC ,Z4,Modern Trade,18,MTI MN,94,AU CHAN
+LBC ,Z4,Modern Trade,18,MTI MN,27,HASHTAG
+LBC ,Z4,Modern Trade,18,MTI MN,45,NAM AN
+LBC ,Z4,Modern Trade,18,MTI MN,61,Other
+LBC ,Z4,Modern Trade,14,SUPERMARKET,20,CO.OP MART
+LBC ,Z4,Modern Trade,14,SUPERMARKET,24,E-MART
+LBC ,Z4,Modern Trade,14,SUPERMARKET,19,GO/TOPS
+LBC ,Z4,Modern Trade,14,SUPERMARKET,75,MEGA MARKET
+LBC ,Z9,Other,30,Other,61,Other
+ODBC,ZB,FnB,27,FnB            ,95,BANHMI                        
+ODBC,ZB,FnB,27,FnB            ,96,COMTAM                        
+ODBC,Z7,Horeca,23,Horeca         ,90,ClearReturn                   
+ODBC,ZC,HubCanTho,28,GTDistributor  ,97,GTDistributor                 
+ODBC,ZC,HubCanTho,23,Horeca         ,90,ClearReturn                   
+ODBC,ZC,HubCanTho,12,Internal       ,12,Internal                      
+ODBC,ZC,HubCanTho,23,Horeca         ,57,StreetRestaurant              
+ODBC,Z3,Internal,29,Seasonal       ,60,SmallAccount                  
+ODBC,Z3,Internal,12,Internal       ,12,Internal                      
+ODBC,Z6,Mamachoice,21,MMCKenhle      ,51,MMCKenhle                     
+ODBC,Z9,Other,24,Sample         ,76,Sample                        
+ODBC,Z9,Other,30,Other          ,61,Other                         
+ODBC,Z1,Retailer,10,Retail         ,62,RetailMMC                     
+ODBC,Z1,Retailer,10,Retail         ,10,RetailG                       
+

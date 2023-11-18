@@ -1,0 +1,27 @@
+SOURCE,ORG_CODE,Code,Name
+LBC,MT,40,Modern Trade
+LBC,Horeca,50,Horeca
+LBC,Factory,90,Others
+LBC,Internal_NOI BO,70,Internal
+ODBC,Retails,10,Retails
+ODBC,Horeca,50,Horeca
+ODBC,Mamachoice,60,Mama Choice
+ODBC,Internal,70,Internal
+ODBC,Other,90,Others
+ODBC,FnB,93,FnB
+ODBC,HubCanTho,92,HubCanTho
+TARGET,Retails,10,Retails
+TARGET,E-Commerce,20,E-Commerce
+TARGET,General Trade,30,General Trade
+TARGET,Modern Trade,40,Modern Trade
+TARGET,Horeca,50,Horeca
+TARGET,Mama choice,60,Mama Choice
+TARGET,Internal,70,Internal
+TARGET,Trading,80,Trading
+TARGET,FnB,93,FnB
+TARGET,HubCanTho,92,HubCanTho
+TARGET,GT Distributor,92,HubCanTho
+LBC,Modern Trade,40,Modern Trade
+LBC,Gia Cong,91,Gia Cong
+LBC,Others,90,Others
+LBC,Internal,70,Internal

@@ -1,0 +1,109 @@
+value_type,kpi_code,kpi_name,month,cat_name,cat_code,subcat1_code,subcat1_name,amount
+20,100,Net sales,2023001,Tươi sống,01,01,Fresh meat,27490837
+20,100,Net sales,2023001,Khác,98,02,Carcass,0
+20,100,Net sales,2023001,Khác,98,04,Aqua,521662
+20,100,Net sales,2023001,Khác,98,03,Beef,29955516
+20,100,Net sales,2023001,Khác,98,06,Chicken,15927709
+20,100,Net sales,2023001,Khác,98,05,Eggs,7990817
+20,100,Net sales,2023001,Khác,98,98,Others,1037452
+20,100,Net sales,2023001,Khác,98,08,F&B,114005
+20,100,Net sales,2023001,SPCB,02,07,Processed food,21128454
+20,100,Net sales,2023002,Tươi sống,01,01,Fresh meat,29194760
+20,100,Net sales,2023002,Khác,98,02,Carcass,0
+20,100,Net sales,2023002,Khác,98,04,Aqua,473691
+20,100,Net sales,2023002,Khác,98,03,Beef,29655171
+20,100,Net sales,2023002,Khác,98,06,Chicken,14764903
+20,100,Net sales,2023002,Khác,98,05,Eggs,7414199
+20,100,Net sales,2023002,Khác,98,98,Others,0
+20,100,Net sales,2023002,Khác,98,08,F&B,106005
+20,100,Net sales,2023002,SPCB,02,07,Processed food,15109986
+20,100,Net sales,2023003,Tươi sống,01,01,Fresh meat,31203594
+20,100,Net sales,2023003,Khác,98,02,Carcass,0
+20,100,Net sales,2023003,Khác,98,04,Aqua,586153
+20,100,Net sales,2023003,Khác,98,03,Beef,30125650
+20,100,Net sales,2023003,Khác,98,06,Chicken,17423321
+20,100,Net sales,2023003,Khác,98,05,Eggs,8768275
+20,100,Net sales,2023003,Khác,98,98,Others,0
+20,100,Net sales,2023003,Khác,98,08,F&B,137819
+20,100,Net sales,2023003,SPCB,02,07,Processed food,23429821
+20,100,Net sales,2023004,Tươi sống,01,01,Fresh meat,35873281
+20,100,Net sales,2023004,Khác,98,02,Carcass,0
+20,100,Net sales,2023004,Khác,98,04,Aqua,636768
+20,100,Net sales,2023004,Khác,98,03,Beef,17642392
+20,100,Net sales,2023004,Khác,98,06,Chicken,18793761
+20,100,Net sales,2023004,Khác,98,05,Eggs,9459820
+20,100,Net sales,2023004,Khác,98,98,Others,17886000
+20,100,Net sales,2023004,Khác,98,08,F&B,0
+20,100,Net sales,2023004,SPCB,02,07,Processed food,24220695
+20,100,Net sales,2023005,Tươi sống,01,01,Fresh meat,37901615
+20,100,Net sales,2023005,Khác,98,02,Carcass,0
+20,100,Net sales,2023005,Khác,98,04,Aqua,678674
+20,100,Net sales,2023005,Khác,98,03,Beef,17874278
+20,100,Net sales,2023005,Khác,98,06,Chicken,20119997
+20,100,Net sales,2023005,Khác,98,05,Eggs,10135812
+20,100,Net sales,2023005,Khác,98,98,Others,17886000
+20,100,Net sales,2023005,Khác,98,08,F&B,0
+20,100,Net sales,2023005,SPCB,02,07,Processed food,27546180
+20,100,Net sales,2023006,Tươi sống,01,01,Fresh meat,41466109
+20,100,Net sales,2023006,Khác,98,02,Carcass,0
+20,100,Net sales,2023006,Khác,98,04,Aqua,736971
+20,100,Net sales,2023006,Khác,98,03,Beef,18166319
+20,100,Net sales,2023006,Khác,98,06,Chicken,21499568
+20,100,Net sales,2023006,Khác,98,05,Eggs,10830569
+20,100,Net sales,2023006,Khác,98,98,Others,26829000
+20,100,Net sales,2023006,Khác,98,08,F&B,0
+20,100,Net sales,2023006,SPCB,02,07,Processed food,30393476
+20,100,Net sales,2023007,Tươi sống,01,01,Fresh meat,45738361
+20,100,Net sales,2023007,Khác,98,02,Carcass,0
+20,100,Net sales,2023007,Khác,98,04,Aqua,786180
+20,100,Net sales,2023007,Khác,98,03,Beef,4766752
+20,100,Net sales,2023007,Khác,98,06,Chicken,22828948
+20,100,Net sales,2023007,Khác,98,05,Eggs,11507667
+20,100,Net sales,2023007,Khác,98,98,Others,48064000
+20,100,Net sales,2023007,Khác,98,08,F&B,0
+20,100,Net sales,2023007,SPCB,02,07,Processed food,32321938
+20,100,Net sales,2023008,Tươi sống,01,01,Fresh meat,48153490
+20,100,Net sales,2023008,Khác,98,02,Carcass,0
+20,100,Net sales,2023008,Khác,98,04,Aqua,831051
+20,100,Net sales,2023008,Khác,98,03,Beef,4920611
+20,100,Net sales,2023008,Khác,98,06,Chicken,23637748
+20,100,Net sales,2023008,Khác,98,05,Eggs,11917857
+20,100,Net sales,2023008,Khác,98,98,Others,53658000
+20,100,Net sales,2023008,Khác,98,08,F&B,0
+20,100,Net sales,2023008,SPCB,02,07,Processed food,35471579
+20,100,Net sales,2023009,Tươi sống,01,01,Fresh meat,50631121
+20,100,Net sales,2023009,Khác,98,02,Carcass,0
+20,100,Net sales,2023009,Khác,98,04,Aqua,901401
+20,100,Net sales,2023009,Khác,98,03,Beef,5207981
+20,100,Net sales,2023009,Khác,98,06,Chicken,25013177
+20,100,Net sales,2023009,Khác,98,05,Eggs,12611157
+20,100,Net sales,2023009,Khác,98,98,Others,53658000
+20,100,Net sales,2023009,Khác,98,08,F&B,0
+20,100,Net sales,2023009,SPCB,02,07,Processed food,38086314
+20,100,Net sales,2023010,Tươi sống,01,01,Fresh meat,56844958
+20,100,Net sales,2023010,Khác,98,02,Carcass,0
+20,100,Net sales,2023010,Khác,98,04,Aqua,991031
+20,100,Net sales,2023010,Khác,98,03,Beef,5660522
+20,100,Net sales,2023010,Khác,98,06,Chicken,27655691
+20,100,Net sales,2023010,Khác,98,05,Eggs,13959637
+20,100,Net sales,2023010,Khác,98,98,Others,71544000
+20,100,Net sales,2023010,Khác,98,08,F&B,0
+20,100,Net sales,2023010,SPCB,02,07,Processed food,41928549
+20,100,Net sales,2023011,Tươi sống,01,01,Fresh meat,62076465
+20,100,Net sales,2023011,Khác,98,02,Carcass,0
+20,100,Net sales,2023011,Khác,98,04,Aqua,1105042
+20,100,Net sales,2023011,Khác,98,03,Beef,6145082
+20,100,Net sales,2023011,Khác,98,06,Chicken,29878339
+20,100,Net sales,2023011,Khác,98,05,Eggs,15076644
+20,100,Net sales,2023011,Khác,98,98,Others,80487000
+20,100,Net sales,2023011,Khác,98,08,F&B,0
+20,100,Net sales,2023011,SPCB,02,07,Processed food,51185838
+20,100,Net sales,2023012,Tươi sống,01,01,Fresh meat,73138977
+20,100,Net sales,2023012,Khác,98,02,Carcass,0
+20,100,Net sales,2023012,Khác,98,04,Aqua,1300028
+20,100,Net sales,2023012,Khác,98,03,Beef,7400667
+20,100,Net sales,2023012,Khác,98,06,Chicken,37491283
+20,100,Net sales,2023012,Khác,98,05,Eggs,18969521
+20,100,Net sales,2023012,Khác,98,98,Others,96102000
+20,100,Net sales,2023012,Khác,98,08,F&B,0
+20,100,Net sales,2023012,SPCB,02,07,Processed food,63606163

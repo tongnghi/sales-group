@@ -1,0 +1,22 @@
+sales_group_code,sales_group_name,channel_code,channel_name
+120,Ecom,20,Ecom
+134,GT HCM,30,General Trade
+137,GT Industrial,30,General Trade
+135,GT Mekong 01,30,General Trade
+136,GT Mekong 02,30,General Trade
+130,GT Miền Bắc 01,30,General Trade
+131,GT Miền Bắc 02,30,General Trade
+132,GT Miền Trung và TN,30,General Trade
+133,GT Miền Đông,30,General Trade
+150,Horeca HCM 1,50,Horeca
+151,Horeca HCM 2,50,Horeca
+152,Horeca HCM 3,50,Horeca
+154,Horeca Miền Bắc,50,Horeca
+153,Horeca Miền Đông,50,Horeca
+171,Internal Daily,90,Other
+170,Internal công ty,70,Internal
+140,MT,40,Modern Trade
+190,Other,90,Other
+110,Retail G,70,Internal
+172,Seasonal,90,Other
+191,Trading,80,Trading

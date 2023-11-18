@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: food_excel_sales
+    database: food  
+    schema: stg_excel_sales
+    tables:
+      - name: master_data_customer_lbc
+      - name: md_channels
+      - name: md_sales_groups
+      - name: md_customer_groups
+      - name: sales_target_by_channels
+      - name: sales_target_by_channels_products
+      - name: md_budget_bpkt
+      - name: md_products
+      - name: md_products_conversion_rate_lbc

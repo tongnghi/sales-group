@@ -1,0 +1,29 @@
+version: 2
+
+sources:
+  - name: food_misa_22
+    database: food  
+    schema: stg_misa_lbc2022
+    tables:
+      - name: generalledger
+      - name: unit
+      - name: saorder
+    
+  - name: food_misa
+    database: food  
+    schema: stg_misa_lbc2023
+    tables:
+      - name: generalledger
+      - name: unit
+      - name: saorder
+
+  - name: food_excel_misa_lbc
+    database: food  
+    schema: stg_excel_misa_lbc
+    tables:
+      - name: tp_lbc_3200_v2
+        columns:
+          - name: _racct
+            tests:
+              - not_null        
+      - name: tb_account_mapping

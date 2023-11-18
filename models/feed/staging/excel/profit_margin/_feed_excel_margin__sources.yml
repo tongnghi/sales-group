@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: stg_excel_margin
+    database: feed  
+    schema: stg_excel_margin
+    tables:
+    - name: actual_ad_com
+    - name: actual_bags
+    - name: actual_cogs
+    - name: actual_discount
+    - name: actual_mnf
+    - name: actual_premix
+    - name: forecast_manufacturing
+    - name: forecast_discount
+    - name: forecast_base_price
+    - name: forecast_overhead_var

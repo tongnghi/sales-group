@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: farm_excel_sales
+    database: farm
+    schema: stg_excel_sales
+    tables:
+      - name: master_data_farm_info
+      - name: master_data_adj
+      - name: master_data_rev
+      

@@ -1,0 +1,1 @@
+select  * from {{ ref('food_int_fi_0fi_acdoca__cogs') }}

@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: feed_actual_profit_margin
+    config:
+      database: feed
+      schema: marts_margin
+      alias: actual_profit_margin
+      materialized: table
+      ra3_node: true

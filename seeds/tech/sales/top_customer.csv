@@ -1,0 +1,5 @@
+index,description,top_customer,percent
+1,Top 20,20,0.2
+2,Next 50,50,0.25	
+3,Next 100,100,0.3
+4,The rest,999999,0.25

@@ -1,0 +1,121 @@
+"CAPTION","criterias",CODE
+"ASSETS","TÀI SẢN",
+"Current assets (100 = 110 + 120 + 130 + 140 + 150)","Tài sản ngắn hạn (100 = 110 + 120 + 130 + 140 + 150)",100
+"Cash and cash equivalents","Tiền và các khoản tương đương tiền",110
+"Cash","Tiền ",111
+"Cash equivalents","Các khoản tương đương tiền",112
+"Short-term financial investments","Đầu tư tài chính ngắn hạn",120
+"Trading securities ","Chứng khoán kinh doanh",121
+"Allowance for diminution in the value of trading securities","Dự phòng giảm giá chứng khoán kinh doanh",122
+"Held-to-maturity investments","Đầu tư nắm giữ đến ngày đáo hạn",123
+"Accounts receivable – short-term","Các khoản phải thu ngắn hạn",130
+"Accounts receivable from customers","Phải thu ngắn hạn của khách hàng",131
+"Prepayments to suppliers","Trả trước cho người bán ngắn hạn",132
+"Intra-company receivables","Phải thu nội bộ ngắn hạn",133
+"Receivables on construction contracts according to stages of completion","Phải thu theo tiến độ kế hoạch hợp đồng xây dựng",134
+"Loans receivable","Phải thu về cho vay ngắn hạn",135
+"Other receivables","Phải thu ngắn hạn khác",136
+"Allowance for doubtful debts","Dự phòng các khoản phải thu ngắn hạn khó đòi",137
+"Shortage of assets awaiting resolution","Tài sản thiếu chờ xử lý",139
+"Inventories","Hàng tồn kho",140
+"Inventories","Hàng tồn kho",141
+"Allowance for inventories","Dự phòng giảm giá hàng tồn kho",149
+"Other current assets","Tài sản ngắn hạn khác",150
+"Short-term prepaid expenses","Chi phí trả trước ngắn hạn ",151
+"Deductible value added tax","Thuế giá trị gia tăng được khấu trừ",152
+"Taxes and other receivables from State Treasury","Thuế và các khoản khác phải thu Nhà nước ",153
+"Government bonds under purchase and resale agreements","Giao dịch mua bán lại trái phiếu Chính phủ",154
+"Other current assets","Tài sản ngắn hạn khác",155
+"Long-term assets (200 = 210 + 220 + 230 + 240 + 250 + 260)","Tài sản dài hạn (200 = 210 + 220 + 230 + 240 + 250 + 260)",200
+"Accounts receivable – long-term","Các khoản phải thu dài hạn",210
+"Accounts receivable from customers – long-term","Phải thu dài hạn của khách hàng",211
+"Prepayments to suppliers – long-term","Trả trước cho người bán dài hạn",212
+"Operating capital allocated to subordinated units","Vốn kinh doanh ở đơn vị trực thuộc",213
+"Intra-company long-term receivables","Phải thu nội bộ dài hạn",214
+"Loans receivable – long-term","Phải thu về cho vay dài hạn",215
+"Other long-term receivables","Phải thu dài hạn khác",216
+"Allowance for doubtful long-term debts","Dự phòng phải thu dài hạn khó đòi",219
+"Fixed assets","Tài sản cố định ()",220
+"Tangible fixed assets","Tài sản cố định hữu hình",221
+"Cost","Nguyên giá",222
+"Accumulated depreciation","Giá trị hao mòn lũy kế",223
+"Finance lease tangible fixed assets","Tài sản cố định hữu hình thuê tài chính",224
+"Cost","Nguyên giá",225
+"Accumulated depreciation","Giá trị hao mòn lũy kế",226
+"Intangible fixed assets","Tài sản cố định vô hình",227
+"Cost","Nguyên giá",228
+"Accumulated amortisation","Giá trị hao mòn lũy kế",229
+"Investment property","Bất động sản đầu tư",230
+"Cost","Nguyên giá",231
+"Accumulated depreciation","Giá trị hao mòn lũy kế",232
+"Long-term work in progress","Tài sản dở dang dài hạn",240
+"Long-term work in progress","Chi phí sản xuất, kinh doanh dở dang dài hạN",241
+"Construction in progress","Chi phí xây dựng cơ bản dở dang",242
+"Long-term financial investments","Đầu tư tài chính dài hạn",250
+"Investments in subsidiaries","Đầu tư vào công ty con",251
+"Investments in associates, joint-ventures","Đầu tư vào các công ty liên doanh, liên kết",252
+"Equity investments in other entities","Đầu tư góp vốn vào đơn vị khác",253
+"Allowance for diminution in the value of long-term financial investments","Dự phòng đầu tư tài chính dài hạn",254
+"Held-to-maturity investments","Đầu tư nắm giữ đến ngày đáo hạn",255
+"Other long-term assets","Tài sản dài hạn khác",260
+"Long-term prepaid expenses","Chi phí trả trước dài hạn",261
+"Deferred tax assets","Tài sản thuế thu nhập hoãn lại",262
+"Long-term tools, supplies and spare parts","Thiết bị, vật tư, phụ tùng thay thế dài hạn",263
+"Other long-term assets","Tài sản dài hạn khác",268
+"Goodwill","Lợi thế thương mại",269
+"TOTAL ASSETS (270 = 100 + 200)","TỔNG CỘNG TÀI SẢN (270 = 100 + 200)",270
+"RESOURCES","NGUỒN VỐN",
+"LIABILITIES (300 = 310 + 330)","NỢ PHẢI TRẢ (300 = 310 + 330)",300
+"Current liabilities","Nợ ngắn hạn",310
+"Accounts payable to suppliers","Phải trả người bán ngắn hạn",311
+"Advances from customers","Người mua trả tiền trước ngắn hạn",312
+"Taxes payable to State Treasury","Thuế và các khoản phải nộp Nhà nước",313
+"Payables to employees","Phải trả người lao động",314
+"Accrued expenses","Chi phí phải trả ngắn hạn",315
+"Intra-company payables","Phải trả nội bộ ngắn hạn",316
+"Intra-company payables","Phải trả nội bộ ngắn hạn",316
+"Payables on construction contracts according to stages of completion","Phải trả theo tiến độ kế hoạch hợp đồng xây dựng",317
+"Unearned revenue – short-term","Doanh thu chưa thực hiện ngắn hạn",318
+"Other payables – short-term","Phải trả ngắn hạn khác",319
+"Short-term borrowings, bonds and finance lease liabilities","Vay, trái phiếu phát hành và nợ thuê tài chính ngắn hạn",320
+"Provisions – short-term ","Dự phòng phải trả ngắn hạn",321
+"Bonus and welfare funds","Quỹ khen thưởng, phúc lợi",322
+"Price stabilization fund","Quỹ bình ổn giá",323
+"Government bonds under sale and repurchase agreements","Giao dịch mua bán lại trái phiếu Chính phủ",324
+"Long-term liabilities","Nợ dài hạn",330
+"Long-term accounts payable to suppliers","Phải trả người bán dài hạn",331
+"Long-term advances from customers","Người mua trả tiền trước dài hạn",332
+"Long-term accrued expenses","Chi phí phải trả dài hạn",333
+"Intra-company payables for operating capital received","Phải trả nội bộ về vốn kinh doanh",334
+"Long-term intra-company payables","Phải trả nội bộ dài hạn",335
+"Long-term unearned revenue","Doanh thu chưa thực hiện dài hạn",336
+"Other payables – long-term","Phải trả dài hạn khác",337
+"Long-term borrowings, bonds and finance lease liabilities","Vay, trái phiếu phát hành và nợ thuê tài chính dài hạn ",338
+"Convertible bonds","Trái phiếu chuyển đổi",339
+"Preference shares","Cổ phiếu ưu đãi",340
+"Deferred tax liabilities","Thuế thu nhập hoãn lại phải trả",341
+"Provisions – long-term ","Dự phòng phải trả dài hạn",342
+"Science and technology development fund","Quỹ phát triển khoa học và công nghệ",343
+"EQUITY (400 = 410 + 430)","VỐN CHỦ SỞ HỮU (400 = 410 + 430)",400
+"Owners’ equity","Vốn chủ sở hữu",410
+"[Contributed capital/ Share capital]","[Vốn góp/vốn cổ phần]",411
+"  - Ordinary shares with voting rights","   - Cổ phiếu phổ thông có quyền biểu quyết ",411a
+"  - Preference shares","   - Cổ phiếu ưu đãi ",411b
+"Capital surplus/Share premium","Thặng dư vốn cổ phần",412
+"Options to convert bonds into shares","Quyền chọn chuyển đổi trái phiếu",413
+"Other capital","Vốn khác của chủ sở hữu",414
+"Treasury shares","Cổ phiếu quỹ",415
+"Differences upon asset revaluation","Chênh lệch đánh giá lại tài sản",416
+"Foreign exchange differences","Chênh lệch tỷ giá hối đoái",417
+"Investment and development fund","Quỹ đầu tư phát triển",418
+"Enterprise reorganization assistance fund","Quỹ hỗ trợ sắp xếp doanh nghiệp",419
+"Other equity funds","Quỹ khác thuộc vốn chủ sở hữu",420
+"Retained profits/(Accumulated losses)","Lợi nhuận sau thuế chưa phân phối/(Lỗ lũy kế)",421
+"  - Retained profits/(Accumulated losses) brought forward","  - LNST chưa phân phối/(Lỗ) lũy kế đến cuối kỳ trước",421a
+"  - Retained profit/(loss) for the current year","  - LNST chưa phân phối/(Lỗ) kỳ này",421b
+"Capital expenditure fund","Nguồn vốn đầu tư xây dựng cơ bản ",422
+"Non-controlling interest","Lợi ích cổ đông không kiểm soát",429
+"Non-business expenditure fund and other funds","Nguồn kinh phí và các quỹ khác",430
+"Non-business expenditure fund","Nguồn kinh phí ",431
+"Non-business expenditure fund invested in fixed assets","Nguồn kinh phí đã hình thành tài sản cố định ",432
+"TOTAL RESOURCES (440 = 300 + 400)","TỔNG CỘNG NGUỒN VỐN (440 = 300 + 400)",440

@@ -1,0 +1,40 @@
+select 
+    code,
+    name,
+    type_code,
+    type_name,
+    net_weight,
+    unit,
+    product_hierarchy_l1_code,
+    product_hierarchy_l1_name,
+    product_hierarchy_l2_code,
+    product_hierarchy_l2_name,
+    product_hierarchy_l3_code,
+    product_hierarchy_l3_name,
+    product_hierarchy_l4_code,
+    product_hierarchy_l4_name,
+    product_hierarchy_l5_code,
+    product_hierarchy_l5_name,
+    product_hierarchy_l6_code,
+    product_hierarchy_l6_name,
+    product_hierarchy_l7_code,
+    product_hierarchy_l7_name,
+    product_hierarchy_l8_code,
+    product_hierarchy_l8_name,
+    from_source,
+    prd.ph4_code,
+    cat.cat_code,
+    cat.cat_name,
+    prd.ph5_code,
+    subcat.subcat1_code,
+    subcat.subcat1_name,
+    subcat.subcat2_code,
+    subcat.subcat2_name,
+    policy_stk.minimum as minimum,
+    policy_stk.maximum as maximum,
+    (policy_stk.minimum + policy_stk.maximum)/2 as optimal
+
+from {{ ref("food_int_products__unioned") }} prd
+left join {{ ref("food_seed_scorecard_mapping_categories") }} cat using(ph4_code)
+left join {{ ref("food_seed_scorecard_mapping_subcategories") }} subcat using(ph5_code)
+left join {{ ref('food_stg_excel_inventory__stock_policy') }} policy_stk on policy_stk.material = prd.code

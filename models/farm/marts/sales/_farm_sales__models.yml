@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: farm_sales
+    config:
+      database: farm
+      schema: marts_sales
+      alias: sales
+      materialized: table
+      ra3_node: true
+  

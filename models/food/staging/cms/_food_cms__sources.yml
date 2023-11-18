@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: food_cms_gkitchen
+    database: food  
+    schema: stg_cms_gkitchen
+    tables:
+      - name: product

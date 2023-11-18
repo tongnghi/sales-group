@@ -1,0 +1,100 @@
+version: 2
+
+models:
+  - name: food_gkitchen_sales
+    config:
+      database: food
+      schema: marts_sales
+      alias: gkitchen_sales
+      materialized: table
+      ra3_node: true
+    tests:
+      - dbt_utils.recency:
+          alias: food_gkitchen_sales__posting_date__has_today_data
+          datepart: day
+          field: posting_date::timestamp
+          interval: 1
+  
+    columns:
+      - name: ship_to
+        tests:
+          - dbt_utils.not_null_proportion:
+              at_least: 0.99
+              config:
+                where: "sale_order_number != ''"
+
+  - name: food_leboucher_sales
+    config:
+      database: food
+      schema: marts_sales
+      alias: leboucher_sales
+      materialized: table
+      ra3_node: true
+    tests:
+      - dbt_utils.recency:
+          alias: leboucher_sales__posting_date__has_yesterday_data
+          datepart: day
+          field: posting_date
+          interval: 2
+
+  - name: food_cms_billing_sales
+    config:
+      database: food
+      schema: marts_sales
+      alias: cms_billing_sales
+      materialized: table
+      ra3_node: true
+    tests:
+      - dbt_utils.recency:
+          alias: food_cms_billing_sales__posting_date__has_yesterday_data
+          datepart: day
+          field: posting_date
+          interval: 2
+
+  - name: food_sales_target_by_channels
+    config:
+      database: food
+      schema: marts_sales
+      alias: sales_target_by_channels
+      materialized: table
+      ra3_node: true
+
+  - name: food_sales_target_by_channels_products
+    config:
+      database: food
+      schema: marts_sales
+      alias: sales_target_by_channels_products
+      materialized: table
+      ra3_node: true
+
+  - name: food_products
+    config:
+      database: food
+      schema: marts_sales
+      alias: products
+      materialized: table
+      ra3_node: true  
+    columns:
+      - name: code
+        tests:
+          - dbt_expectations.expect_column_values_to_not_be_null
+          - dbt_expectations.expect_column_values_to_be_unique
+    tests:
+      - dbt_utils.expression_is_true:
+          expression: "left(code, 1) != '0'"
+
+  - name: food_budget_of_accounting_department
+    config:
+      database: food
+      schema: marts_sales
+      alias: budget_of_accounting_department
+      materialized: table
+      ra3_node: true 
+
+  - name: food_feedy_dnf_customers
+    config:
+      database: food
+      schema: marts_sales
+      alias: feedy_dnf_customers
+      materialized: table
+      ra3_node: true

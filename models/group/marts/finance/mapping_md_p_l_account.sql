@@ -1,0 +1,1 @@
+select * from {{ ref('mapping_md_p_and_l_account') }}

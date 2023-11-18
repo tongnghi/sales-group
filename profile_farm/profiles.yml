@@ -1,0 +1,14 @@
+sales_group:
+  outputs:
+    dev:
+      dbname: farm
+      host: greenfeed-prod-cluster-1.cylpbexwleqj.ap-southeast-1.redshift.amazonaws.com
+      user: duc.nv
+      password: H6CTjxo60BoD1al
+      port: 5439
+      schema: duc_dev
+      threads: 1
+      type: redshift
+      ra3_node: true
+      connect_timeout: 100000
+  target: dev

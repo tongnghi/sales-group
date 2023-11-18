@@ -1,0 +1,128 @@
+version: 2
+
+models:
+  - name: tech_qdtek_sales__actual_sales
+    config:
+      database: tech
+      schema: marts_sales
+      alias: actual_sales
+    # columns:
+    #   - name: actual_amount
+    #     description: This is UNIQUE TEST
+    #     tags: [Tech, QDTek]
+    #     glossary terms: Feed
+    # owners: Technical Owner
+
+  - name: tech_qdtek_sales__customers
+    config:
+      database: tech
+      schema: marts_sales
+      alias: customers
+
+  - name: tech_qdtek_sales__churns
+    config:
+      database: tech
+      schema: marts_sales
+      alias: churns
+
+  - name: tech_qdtek_sales__customer_classes
+    config:
+      database: tech
+      schema: marts_sales
+      alias: customer_classes
+
+  - name: tech_qdtek_sales__billings
+    config:
+      database: tech
+      schema: marts_sales
+      alias: billings
+
+  - name: tech_qdtek_sales__pbi_user_permissions
+    config:
+      database: tech
+      schema: marts_sales
+      alias: pbi_user_permissions
+
+  - name: tech_qdtek_sales__regions
+    config:
+      database: tech
+      schema: marts_sales
+      alias: "{{ 'regions' if target.name == 'prod' else 'tech_qdtek_sales__regions' }}"
+
+  - name: tech_qdtek_sales__budgets
+    config:
+      database: tech
+      schema: marts_sales
+      alias: budgets
+
+  - name: tech_qdtek_sales__md_customers
+    config:
+      database: tech
+      schema: marts_sales
+      alias: md_customers
+
+  - name: tech_qdtek_sales__md_pipeline_crms
+    config:
+      database: tech
+      schema: marts_sales
+      alias: md_pipeline_crms
+
+  - name: tech_qdtek_sales__salesmans
+    config:
+      database: tech
+      schema: marts_sales
+      alias: salesmans
+
+  - name: tech_qdtek_sales__branches
+    config:
+      database: tech
+      schema: marts_sales
+      alias: branches
+
+  - name: tech_qdtek_sales__departments
+    config:
+      database: tech
+      schema: marts_sales
+      alias: departments
+
+  - name: tech_qdtek_sales__teams
+    config:
+      database: tech
+      schema: marts_sales
+      alias: teams
+
+  - name: tech_qdtek_sales__materials
+    config:
+      database: tech
+      schema: marts_sales
+      alias: materials
+
+  - name: tech_qdtek_sales__brands
+    config:
+      database: tech
+      schema: marts_sales
+      alias: brands
+
+  - name: tech_qdtek_sales__product_groups
+    config:
+      database: tech
+      schema: marts_sales
+      alias: product_groups
+
+  - name: tech_qdtek_sales__periods
+    config:
+      database: tech
+      schema: marts_sales
+      alias: periods
+
+  - name: tech_qdtek_sales__top_customers
+    config:
+      database: tech
+      schema: marts_sales
+      alias: top_customers
+
+  # - name: tech_qdtek_sales__measures
+  #   config:
+  #     database: tech
+  #     schema: marts_sales
+  #     alias: measures

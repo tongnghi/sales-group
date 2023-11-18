@@ -1,0 +1,10 @@
+version: 2
+
+models:
+  - name: feed_sales_budget_2023
+    config:
+      database: feed
+      schema: marts_sales
+      alias: sales_budget_2023
+      materialized: table
+      ra3_node: true

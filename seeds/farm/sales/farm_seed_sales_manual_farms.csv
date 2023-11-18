@@ -1,0 +1,6 @@
+farmid,farmname,ftype,buid,buname,sub,regionid,compcode
+GAG,Ga Giong,GAG,2030,Southern,GAG,20,9999
+S2,Ga Loai 2 MN,GA,2030,Southern,S2,20,9999
+S1,Ga Loai 1 MN,GA,2030,Southern,S1,20,9999
+N2,Ga Loai 2 MB,GA,1030,Northern,N2,10,9999
+N1,Ga Loai 1 MB,GA,1030,Northern,N1,10,9999

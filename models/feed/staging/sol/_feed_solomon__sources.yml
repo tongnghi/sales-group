@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: feed_excel_gfdnbapp
+    database: feed  
+    schema: stg_excel_gfdnbapp
+    tables:
+    - name: cn_dnb_tb_1000

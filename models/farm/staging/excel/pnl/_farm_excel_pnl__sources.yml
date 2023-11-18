@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: farm_excel_pnl
+    database: farm
+    schema: stg_excel_pnl
+    tables:
+      - name: farm_sales
+      - name: farm_pg
+      - name: customer
+      - name: md_account_pnl_code
+      - name: md_account_type
+      - name: md_allocate_final_account
+      - name: md_seg1_allocate
+      - name: md_seg2_farm_name
+      - name: md_seg2_industry
+      - name: md_seg4_funcdept
+      - name: md_subaccount_seg4

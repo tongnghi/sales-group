@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: qdtek_excel_sales
+    database: tech
+    schema: stg_excel_sales
+    tables:
+      - name: customer
+      - name: daily_sales
+      - name: material
+      - name: pipeline_crm
+      - name: forecast_budget
+      - name: salesman

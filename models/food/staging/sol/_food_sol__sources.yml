@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: food_sol_gnf1001apprepl
+    database: food  
+    schema: stg_sol_gnf1001apprepl
+    tables:
+      - name: vs_safoorderl_salesadmin
+      - name: xt_safoweb_v

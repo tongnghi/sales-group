@@ -1,0 +1,1 @@
+select date,category,bud_revenue,bud_volume from {{ source("food_excel_sales","md_budget_bpkt") }}

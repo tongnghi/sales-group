@@ -1,0 +1,281 @@
+cost_center,cost_center_name,Person Responsible,cc_group,cc_group_name
+330010K002,"F_DC Gò Vấp",Feddy,02,Kho
+330010K003,"F_DC Bình Thạnh",Feddy,02,Kho
+330010K004,"F_DC Hà Nội",Feddy,02,Kho
+330010K005,"F_DC CN Đồng Nai",Feddy,02,Kho
+330010K006,"F_DC CN Miền Bắc",Feddy,02,Kho
+330010K007,"F_DC Tây Hòa",Feddy,02,Kho
+330010K008,"F_DC Tân Hóa",Feddy,02,Kho
+330010K009,"F_DC Tân Sơn",Feddy,02,Kho
+330010K010,"F_S.LOC Bảo Trung",Feddy,02,Kho
+330010K011,"F_DC Đức Tấn",Feddy,02,Kho
+330010K012,"F_DC An Phú",Feddy,02,Kho
+330010K013,"F_DC Hoàng Phi Quân",Feddy,02,Kho
+330010K014,"F_DC Quang Trung",Feddy,02,Kho
+330010K015,"F_DC Feddy tai DNF",Feddy,02,Kho
+330010M001,"Kho TổngHợp Meatshop",Feddy,01,Cửa hàng
+330010M002,"F_MS N. Văn Luông",Feddy,01,Cửa hàng
+330010M003,"F_MS Phan Chu Trinh",Feddy,01,Cửa hàng
+330010M004,"F_MS N. Văn Thương",Feddy,01,Cửa hàng
+330010M005,"F_MS Quốc Hương",Feddy,01,Cửa hàng
+330010M006,"F_MS Tân Hòa Đông",Feddy,01,Cửa hàng
+330010M007,"F_MS Ngô Tất Tố",Feddy,01,Cửa hàng
+330010M008,"F_MS PHạm Văn Hai",Feddy,01,Cửa hàng
+330010M009,"F_MS N. Duy Trinh",Feddy,01,Cửa hàng
+330010M010,"F_MS Độc Lập",Feddy,01,Cửa hàng
+330010M011,"F_MS Lý Phục Man",Feddy,01,Cửa hàng
+330010M012,"F_MS Bùi Văn Ba",Feddy,01,Cửa hàng
+330010M013,"F_MS TB-H. Hoa Thám",Feddy,01,Cửa hàng
+330010M014,"F_MS Trần Mai Ninh",Feddy,01,Cửa hàng
+330010M015,"F_MS Hoàng N Phách",Feddy,01,Cửa hàng
+330010M016,"F_MS Phạm Văn Chiêu",Feddy,01,Cửa hàng
+330010M017,"F_MS Bông Sao",Feddy,01,Cửa hàng
+330010M018,"F_MS Tô Hiến Thành",Feddy,01,Cửa hàng
+330010M019,"F_MS Trần Văn Quang",Feddy,01,Cửa hàng
+330010M020,"F_MS Trung Mỹ Tây",Feddy,01,Cửa hàng
+330010M021,"F_MS C.Mạng Tháng 8",Feddy,01,Cửa hàng
+330010M022,"F_MS Phạm Văn Bạch",Feddy,01,Cửa hàng
+330010M023,"F_MS Tô Ngọc Vân",Feddy,01,Cửa hàng
+330010M024,"F_MS Phạm Phú Thứ",Feddy,01,Cửa hàng
+330010M025,"F_MS Trần Nhân Tôn",Feddy,01,Cửa hàng
+330010M026,"F_MS Cây Keo",Feddy,01,Cửa hàng
+330010M027,"F_MS T. Phước Phan",Feddy,01,Cửa hàng
+330010M028,"F_MS Phước Bình",Feddy,01,Cửa hàng
+330010M029,"F_MS Hai Bà Trưng",Feddy,01,Cửa hàng
+330010M030,"F_MS Lê Đức Thọ",Feddy,01,Cửa hàng
+330010M031,"F_MS An Dương Vương",Feddy,01,Cửa hàng
+330010M032,"F_MS Nguyễn Xí",Feddy,01,Cửa hàng
+330010M033,"F_MS Bạch Vân",Feddy,01,Cửa hàng
+330010M034,"F_MS Nguyễn Thị TẦn",Feddy,01,Cửa hàng
+330010M035,"F_MS Lê Văn Sỹ",Feddy,01,Cửa hàng
+330010M036,"F_MS Lê Thạch",Feddy,01,Cửa hàng
+330010M037,"F_MS Tân Quy",Feddy,01,Cửa hàng
+330010M038,"F_MS Phổ Quang",Feddy,01,Cửa hàng
+330010M039,"F_MS N. Thị Trang",Feddy,01,Cửa hàng
+330010M040,"F_MPhan Chu Trinh BH",Feddy,01,Cửa hàng
+330010M041,"F_MPhạm Văn Thuận BH",Feddy,01,Cửa hàng
+330010M042,"F_MS Bình Triệu",Feddy,01,Cửa hàng
+330010M043,"F_MS N. Đình Chiểu",Feddy,01,Cửa hàng
+330010M044,"F_MS Xóm Củi",Feddy,01,Cửa hàng
+330010M045,"F_MS Phan Văn Trị",Feddy,01,Cửa hàng
+330010M046,"F_MS Quang Trung",Feddy,01,Cửa hàng
+330010M047,"F_M NTMinh Khai BD",Feddy,01,Cửa hàng
+330010M048,"F_MS Đinh Bộ Lĩnh BD",Feddy,01,Cửa hàng
+330010M049,"F_MS Đỗ Xuân Hợp",Feddy,01,Cửa hàng
+330010M050,"F_MS Lê Văn Lương NB",Feddy,01,Cửa hàng
+330010M051,"F_MS Huỳnh Tấn Phát",Feddy,01,Cửa hàng
+330010M052,"F_MS Lạc Long Quân",Feddy,01,Cửa hàng
+330010M053,"F_MS Nguyễn Thị Định",Feddy,01,Cửa hàng
+330010M054,"F_MS Nguyễn Sỹ Sách",Feddy,01,Cửa hàng
+330010M055,"F_MS Cống Quỳnh",Feddy,01,Cửa hàng
+330010M056,"F_MS Nguyễn Ảnh Thủ",Feddy,01,Cửa hàng
+330010M057,"F_MS Tân Phú",Feddy,01,Cửa hàng
+330010M058,"F_MSTrịnh Đình Trọng",Feddy,01,Cửa hàng
+330010M059,"F_MS Tam Bình",Feddy,01,Cửa hàng
+330010M060,"F_MS Nguyễn Huy Tự",Feddy,01,Cửa hàng
+330010M061,"F_MS Gò Xoài",Feddy,01,Cửa hàng
+330010M062,"F_MS Hà Huy Giáp",Feddy,01,Cửa hàng
+330010M063,"F_MS Trần Quý",Feddy,01,Cửa hàng
+330010M064,"F_MS Lý Thường Kiệt",Feddy,01,Cửa hàng
+330010M065,"F_MS Kha Vạn Cân",Feddy,01,Cửa hàng
+330010M066,"F_MS Trần Hữu Trang",Feddy,01,Cửa hàng
+330010M067,"F_MS Lộ Tẻ",Feddy,01,Cửa hàng
+330010M068,"F_MS Âu Cơ",Feddy,01,Cửa hàng
+330010M069,"F_MS Nguyễn Lâm",Feddy,01,Cửa hàng
+330010M070,"F_MS Sơn Kỳ",Feddy,01,Cửa hàng
+330010M071,"F_MS Lê Văn Quới",Feddy,01,Cửa hàng
+330010M072,"F_MS Long Trường",Feddy,01,Cửa hàng
+330010M073,"F_MS Trần Văn Mười",Feddy,01,Cửa hàng
+330010M074,"F_MS Dương Đình Hội",Feddy,01,Cửa hàng
+330010M075,"F_MS City Land",Feddy,01,Cửa hàng
+330010M076,"F_MS Nguyễn Văn Nghi",Feddy,01,Cửa hàng
+330010M077,"F_MS Phong Phú",Feddy,01,Cửa hàng
+330010M078,"F_M-Lê Văn Lương-Q7",Feddy,01,Cửa hàng
+330010M079,"F_MS Đỗ Ngọc Quang",Feddy,01,Cửa hàng
+330010M080,"F_MS Lê Văn Việt",Feddy,01,Cửa hàng
+330010M081,"F_MS Cao Đạt",Feddy,01,Cửa hàng
+330010M082,"F_MS Tân Mỹ",Feddy,01,Cửa hàng
+330010M083,"F_MS QUỐC LỘ 13",Feddy,01,Cửa hàng
+330010M084,"F_MS PHẠM HỮU LẦU",Feddy,01,Cửa hàng
+330010M085,"F_MS BT-H. Hoa Thám",Feddy,01,Cửa hàng
+330010M086,"F_MS An Phú",Feddy,01,Cửa hàng
+330010M087,"F_MS LÊ VĂN THỌ",Feddy,01,Cửa hàng
+330010M088,"F_MS BÌNH QUỚI",Feddy,01,Cửa hàng
+330010M089,"F_MS553 N.DINH CHIEU",Feddy,01,Cửa hàng
+330010M090,"F_MS NGUYEN VAN TAO",Feddy,01,Cửa hàng
+330010M091,"F_MS An Khánh",Feddy,01,Cửa hàng
+330010M092,"F_MS Phú Lợi",Feddy,01,Cửa hàng
+330010M093,"F_MS TR.CÔNG ĐỊNH",Feddy,01,Cửa hàng
+330010M094,"F_MS LINH TRUNG",Feddy,01,Cửa hàng
+330010M095,"F_MS NGUYỄN VĂN CÔNG",Feddy,01,Cửa hàng
+330010M096,"F_MS96",Feddy,01,Cửa hàng
+330010M097,"F_MS97",Feddy,01,Cửa hàng
+330010M098,"F_MS98",Feddy,01,Cửa hàng
+330010M099,"F_MS99",Feddy,01,Cửa hàng
+330010M100,"F_MS100",Feddy,01,Cửa hàng
+330010M101,"F_MS101",Feddy,01,Cửa hàng
+330010M102,"F_MS102",Feddy,01,Cửa hàng
+330010M103,"F_MS103",Feddy,01,Cửa hàng
+330010M104,"F_MS104",Feddy,01,Cửa hàng
+330010M105,"F_MS105",Feddy,01,Cửa hàng
+330010M106,"F_MS106",Feddy,01,Cửa hàng
+330010M107,"F_MS107",Feddy,01,Cửa hàng
+330010M108,"F_MS108",Feddy,01,Cửa hàng
+330010M109,"F_MS109",Feddy,01,Cửa hàng
+330010M110,"F_MS110",Feddy,01,Cửa hàng
+330010M111,"F_MS111",Feddy,01,Cửa hàng
+330010M112,"F_MS112",Feddy,01,Cửa hàng
+330010M113,"F_MS113",Feddy,01,Cửa hàng
+330010M114,"F_MS114",Feddy,01,Cửa hàng
+330010M115,"F_MS115",Feddy,01,Cửa hàng
+330010M116,"F_MS116",Feddy,01,Cửa hàng
+330010M117,"F_MS117",Feddy,01,Cửa hàng
+330010M118,"F_MS118",Feddy,01,Cửa hàng
+330010M119,"F_MS119",Feddy,01,Cửa hàng
+330010M120,"F_MS120",Feddy,01,Cửa hàng
+3300116001,"F_SX-Gia công",Feddy,99,Khác
+3300116101,"F_SX-Cho thuê TS",Feddy,99,Khác
+3300180001,"F_CPBH- KD",Feddy,99,Khác
+3300180011,"F_CPBH- KD _Retail",Feddy,99,Khác
+3300180012,"F_CPBH- KD _Ecom",Feddy,99,Khác
+3300180013,"F_CPBH- KD _GT",Feddy,99,Khác
+3300180014,"F_CPBH- KD _MT",Feddy,99,Khác
+3300180015,"F_CPBH- KD _Horeca",Feddy,99,Khác
+3300180016,"F_CPBH- KD _Season",Feddy,99,Khác
+3300180017,"F_CPBH- KD _Trader",Feddy,99,Khác
+3300180018,"F_CPBH- KD _Intern",Feddy,99,Khác
+3300180019,"F_CPBH- KD _Other",Feddy,99,Khác
+3300180111,"F_CPBH-KD MMC_Retail",Feddy,99,Khác
+3300180112,"F_CPBH-KD MMC_Lẻ",Feddy,99,Khác
+3300180113,"F_CPBH-KD MMC_Sỉ",Feddy,99,Khác
+3300180115,"F_CPBH-KD MMC_HRC",Feddy,99,Khác
+3300180201,"F_CPBH-KD MB",Feddy,99,Khác
+3300180213,"F_CPBH-KD MB_GT",Feddy,99,Khác
+3300180214,"F_CPBH-KD MB_MT",Feddy,99,Khác
+3300180215,"F_CPBH-KD MB_Horeca",Feddy,99,Khác
+3300180313,"F_CPBH-KD MTr_GT",Feddy,99,Khác
+3300180315,"F_CPBH-KD MTr_Horeca",Feddy,99,Khác
+3300180401,"F_CPBH-KD F&B",Feddy,99,Khác
+3300186000,"F_COPA_Core Biz",Feddy,99,Khác
+3300186001,"F_CPBH",Feddy,99,Khác
+3300187001,"F_CPBH",Feddy,99,Khác
+3300187002,"F_CPBH_MB",Feddy,99,Khác
+3300187003,"F_CPBH_Pha lóc",Feddy,99,Khác
+3300187004,"F_CPBH_Chế biến",Feddy,99,Khác
+3300187101,"F_CPBH-Mar",Feddy,99,Khác
+3300187111,"F_CPBH-Mar _Retail",Feddy,99,Khác
+3300187112,"F_CPBH-Mar _Ecom",Feddy,99,Khác
+3300187113,"F_CPBH-Mar _GT",Feddy,99,Khác
+3300187114,"F_CPBH-Mar _MT",Feddy,99,Khác
+3300187115,"F_CPBH-Mar _Horeca",Feddy,99,Khác
+3300187116,"F_CPBH-Mar _Seasonal",Feddy,99,Khác
+3300187117,"F_CPBH-Mar _MMC",Feddy,99,Khác
+3300187118,"F_CPBH-Mar _Internal",Feddy,99,Khác
+3300187119,"F_CPBH-Mar _Other",Feddy,99,Khác
+3300187201,"F_CPBH-T.Hiệu TT",Feddy,99,Khác
+3300187217,"F_CPBH-T.Hiệu TT_MMC",Feddy,99,Khác
+3300187301,"F_CPBH-bán lẻ & TM",Feddy,01,Cửa hàng
+3300187401,"F_CPBH-nghiên cứu TT",Feddy,99,Khác
+3300187501,"F_CPBH-Sale admin",Feddy,99,Khác
+3300187502,"F_CPBH-Sale admin_MB",Feddy,99,Khác
+3300187517,"F_CPBH-Sale adm_MMC",Feddy,99,Khác
+3300187601,"F_CPBH-Tiếp thị TM",Feddy,99,Khác
+3300187617,"F_CPBH-T.Thị TM_MMC",Feddy,99,Khác
+3300187701,"F_CPBH-QA",Feddy,99,Khác
+3300187702,"F_CPBH-BP QA_MB",Feddy,99,Khác
+3300187801,"F_CPBH-Log",Feddy,99,Khác
+3300187817,"F_CPBH-BP Log_MMC",Feddy,99,Khác
+3300187850,"F_CPBH-BP Log_Gnhan",Feddy,99,Khác
+3300187851,"F_CPBH-BP Log_VHVT",Feddy,99,Khác
+3300187852,"F_CPBH-Log_GNhan_MB",Feddy,99,Khác
+3300187901,"F_CPBH-Kho",Feddy,02,Kho
+3300187902,"F_CPBH-Kho_MB",Feddy,02,Kho
+3300188001,"F_CPBH-BP CCU",Feddy,99,Khác
+3300188101,"F_CPBH-BP Planning",Feddy,99,Khác
+3300188201,"F_CPBH-BP R&D",Feddy,99,Khác
+3300189001,"F_CPBH-BP Activation",Feddy,99,Khác
+3300189011,"F_BH-Activate_Retail",Feddy,99,Khác
+3300189012,"F_BH-Activate_Ecom",Feddy,99,Khác
+3300189013,"F_BH-Activate_GT",Feddy,99,Khác
+3300189014,"F_BH-Activate_MT",Feddy,99,Khác
+3300189015,"F_BH-Activate_Horeca",Feddy,99,Khác
+3300189016,"F_BH-Activate_Season",Feddy,99,Khác
+3300189017,"F_BH-Activate_Trader",Feddy,99,Khác
+3300190000,"F_CPQL-chung_HO",Feddy,99,Khác
+3300190001,"F_CPQL-chung",Feddy,99,Khác
+3300190200,"F_CPQL-BĐH_HO",Feddy,99,Khác
+3300190201,"F_CPQL-BĐH",Feddy,99,Khác
+3300190501,"F_CPQL-Pháp chế",Feddy,99,Khác
+3300190600,"F_CPQL-HC & PTNNL_HO",Feddy,99,Khác
+3300190601,"F_CPQL-HC & PTNNL",Feddy,99,Khác
+3300190617,"F_CPQL-HC &PTNNL_MMC",Feddy,99,Khác
+3300191000,"F_CPQL-TC-KT_HO",Feddy,99,Khác
+3300191001,"F_CPQL-TC-KT",Feddy,99,Khác
+3300191002,"F_CPQL-TC-KT_MB",Feddy,99,Khác
+3300191017,"F_CPQL-TC-KT_MMC",Feddy,99,Khác
+3300191101,"F_CPQL-Thu mua",Feddy,99,Khác
+3300191801,"F_CPQL-IT",Feddy,99,Khác
+3300192401,"F_CPQL-QA",Feddy,99,Khác
+3300192417,"F_CPQL-QA_MMC",Feddy,99,Khác
+3300192601,"F_CPQL-DA mổ ĐC heo",Feddy,99,Khác
+3300192701,"F_CPQL-DA Winner",Feddy,99,Khác
+3300193101,"F_CPQL-R&D",Feddy,99,Khác
+3300193201,"F_CPQL-MMC",Feddy,99,Khác
+3300199001,"F_CPQL-DA_SAP",Feddy,99,Khác
+3300199002,"F_CPQL-DA_FnB",Feddy,99,Khác
+3300280001,"F_CN HN_CPBH-KD",Feddy,99,Khác
+3300287001,"F_CN HN_CPBH",Feddy,99,Khác
+3300287101,"F_CN HN_CPBH-Mar",Feddy,99,Khác
+3300287901,"F_CN HN_CPBH-Kho",Feddy,02,Kho
+3300290001,"F_CN HN_CPQL-chung",Feddy,99,Khác
+3300291001,"F_CN HN_CPQL-TC-KT",Feddy,99,Khác
+3300380001,"F_CN ĐN_CPBH-KD",Feddy,99,Khác
+3300387001,"F_CN ĐN_CPBH",Feddy,99,Khác
+3300387101,"F_CN ĐN_CPBH-Mar",Feddy,99,Khác
+3300387901,"F_CN ĐN_CPBH-Kho",Feddy,02,Kho
+3300390001,"F_CN ĐN_CPQL-chung",Feddy,99,Khác
+3300391001,"F_CN ĐN_CPQL-TC-KT",Feddy,99,Khác
+3310110101,"DNF_SX-giết mổ",DNF,99,Khác
+3310110201,"DNF_SX-Pha lóc",DNF,99,Khác
+3310110301,"DNF_SX-PLCĐ",DNF,99,Khác
+3310110401,"DNF_SX-trứng",DNF,99,Khác
+3310110501,"DNF_SX-SPCB_Sơ chế",DNF,99,Khác
+3310110502,"DNF_SX-SPCB_ĐG lạnh",DNF,99,Khác
+3310110503,"DNF_SX-SPCB_ĐG khô",DNF,99,Khác
+3310110504,"DNF_SX-SPCB_XX TT",DNF,99,Khác
+3310110505,"DNF_SX-SPCB_Chả giò",DNF,99,Khác
+3310110506,"DNF_SX-SPCB_Sauxuly",DNF,99,Khác
+3310110601,"DNF_SX-Gà",DNF,99,Khác
+3310110701,"DNF_SX-Vịt",DNF,99,Khác
+3310110801,"DNF_SX-Đầu lòng ML",DNF,99,Khác
+3310110901,"DNF-Đầu lòng tự SX",DNF,99,Khác
+3310111001,"DNF_Bò",DNF,99,Khác
+3310111101,"DNF_Ðóng gói Bundle",DNF,99,Khác
+3310115001,"DNF_SX-SXC_C. Biến",DNF,99,Khác
+3310115002,"DNF_SX-SXC_GM+PL",DNF,99,Khác
+3310115003,"DNF_SX-SXC_PL",DNF,99,Khác
+3310115004,"DNF_SX-SXC_Chung",DNF,99,Khác
+3310116001,"DNF_SX-Gia công khác",DNF,99,Khác
+3310117001,"DNF_SX-BP Văn phòng",DNF,02,Kho
+3310117101,"DNF_SX-Kho_GM",DNF,02,Kho
+3310117102,"DNF_SX-Kho_PL",DNF,02,Kho
+3310117103,"DNF_SX-Kho_PLCĐ",DNF,02,Kho
+3310117104,"DNF_SX-Kho_C. biến",DNF,02,Kho
+3310117105,"DNF_SX-Kho_Chung",DNF,02,Kho
+3310117201,"DNF_SX-Bảo trì",DNF,99,Khác
+3310117301,"DNF_SX-QA",DNF,99,Khác
+3310117401,"DNF_SX-S.H.E",DNF,99,Khác
+3310187001,"DNF_CPBH",DNF,99,Khác
+3310187101,"DNF_CPBH-Mar",DNF,99,Khác
+3310187901,"DNF_CPBH-Kho",DNF,02,Kho
+3310188101,"DNF_CPBH-BP Planning",DNF,99,Khác
+3310188201,"DNF_CPBH-BP R&D",DNF,99,Khác
+3310190001,"DNF_CPQL-chung",DNF,99,Khác
+3310190201,"DNF_CPQL-BĐH",DNF,99,Khác
+3310190601,"DNF_CPQL-HC & PTNNL",DNF,99,Khác
+3310191001,"DNF_CPQL-TC-KT",DNF,99,Khác
+3310191101,"DNF_CPQL-Thu mua",DNF,99,Khác
+3310191801,"DNF_CPQL-IT",DNF,99,Khác
+3310192401,"DNF_CPQL-QA",DNF,99,Khác
+3310193001,"DNF_CPQL-Planning",DNF,99,Khác
+3310193101,"DNF_CPQL-R&D",DNF,99,Khác
